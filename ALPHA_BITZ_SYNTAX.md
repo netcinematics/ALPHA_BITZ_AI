@@ -70,7 +70,7 @@ WORDZ wrapped with 'a' at the front, and the end, and (sometimes) in the middle,
   
 - "MIDFIX_A" - little_A in between tokens, is a wildcard that can be conjugated in any way that makes sense.
 
-#### EXAMPLES of ALPHA_TAX definitions:
+#### EXAMPLES of ALPHA_TAX "ATOMIC" definitions:
 
 ~ aSPARKa [pronounced: ahh+spark+ahh], means actual_acts_of_spark.
 
@@ -79,6 +79,10 @@ WORDZ wrapped with 'a' at the front, and the end, and (sometimes) in the middle,
 ~ aENa [pronounced: ahh+en+ahh], means actual_acts_of_encouragement.
 
 ~ aDISa [pronounced: ahh+dis+ahh], means actual_acts_of_discouragement.
+
+#### EXAMPLES of ALPHA_TAX "COMPOSITE" combinations:
+
+~ aENaMENTZa [pronounced: ahh+en+ahh+ment+zah], means actual_acts_of_encouraging_mentality.
 
 ____
 
