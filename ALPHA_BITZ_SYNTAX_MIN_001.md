@@ -1,10 +1,10 @@
-# ALPHA_BITZ SYNTAX:
+# ALPHABITZ SYNTAX:
 
-> ALPHA_BITZ is a language optimization - for humans and Artificial Intelligence.
+> ALPHABITZ is a language optimization - for humans and Artificial Intelligence.
 
-This file defines the syntax for ALPHA_BITZ.
+This file defines the syntax for ALPHABITZ.
 
-The PURPOSE of ALPHA_BITZ - is to explore various optimizations for AI.
+The PURPOSE of ALPHABITZ - is to explore various optimizations for AI.
 
 Including a novel SOLUTION for ambiguity and semantic drift.
 
@@ -46,7 +46,7 @@ ___
 
 Using SYNTAX_ENHANCEMENTS called "WORDZ",
 
-ALPHA_BITZ adds (unique) extra dimensionality in embedded space.
+ALPHABITZ adds (unique) extra dimensionality in embedded space.
 
 > Where we embed extra metadata into singular letters.
 
@@ -142,7 +142,7 @@ ____
 
 ### DEFINITIONS:
 
-> ~ "ALPHA_BITZ": NOVEL TECHNIQUES of "LEXICAL_SCIENCE" for "GENERATIVE_INTELLIGENCE":
+> ~ "ALPHABITZ": NOVEL TECHNIQUES of "LEXICAL_SCIENCE" for "GENERATIVE_INTELLIGENCE":
 
 > ~ "AI_OIL" (AI_OPTIMIZED_INPUT_LANGUAGE): solves AI_CONTEXT_AMBIGUOSITY.
 
@@ -162,7 +162,7 @@ ____
 
 > ~ “GENERATIVE_INTELLIGENCE”: a fascinating AI INNOVATION of ENHANCED_ENGLISH syntax and DYNAMIC_LANGUAGE principles, that unlock actual_extra_ability, and actual_extra_conceptz - with the scientific art craft of actual_extra_wordz. Which appears to optimize AI encode, reduce compute costs, and enhance symbiotic communication between AI and humanity.
 
-> ~ "LEXICAL_SCIENCE": inspired by Computer Science* (syntax systems, Snake_Case), GoF Design Patterns (modular: text mechanisms for AI),Scientific Taxonomy (combinable: classification system), ISO Standard (exactness: universal date & time), Google Alphabet when ALPHA_BITZ was finally realized on Gemini.
+> ~ "LEXICAL_SCIENCE": inspired by Computer Science* (syntax systems, Snake_Case), GoF Design Patterns (modular: text mechanisms for AI),Scientific Taxonomy (combinable: classification system), ISO Standard (exactness: universal date & time), Google Alphabet when ALPHABITZ was finally realized on Gemini.
 ___
 
 ## CLUSTER_SYNTAX:
