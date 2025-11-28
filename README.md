@@ -8,29 +8,29 @@ ___
 
 1. Humanity is "MISSING_WORDS".
    
-   - We don't notice "MISSING_WORDS" - but MOST CONCEPTS ARE NOT YET ARTICULATED to SINGLE WORDS.
+   - We don't notice "MISSING_WORDS" historically. But MOST CONCEPTS ARE NOT YET ARTICULATED to SINGLE (EXACT) WORDS*.
   
-2. For AI to have all CONCEPTS POSSIBLE - it needs "EXACTNESS".
+2. For AI to encode all CONCEPTS POSSIBLE - it needs "EXACTNESS" of concepts and words.
 
-   - CLICHE is and exellent example of a common INEXACTNESS problem, called "AMBIGUOSITY".
+   - CLICHE is an exellent example of a common INEXACTNESS problem, called "AMBIGUOSITY".*
 
-4. INTELLIGENCE is VOCABULARY - for AI to have "extra intellect" - it needs EXTRA VOCABULARY.
+4. As far as INTELLIGENCE is VOCABULARY - for AI to have "extra intellect" - it needs EXTRA VOCABULARY (for extra concept embedding).
 
-5. After "ERA of SCALING" (*Ilya Sutskever) - ADDITIONAL OPTIMIZATION AWAITS - with "ENHANCED_SYNTAX" and "BETTER_WORDS".
+5. After "ERA of SCALING" (*Ilya Sutskever) - ADDITIONAL OPTIMIZATION AWAITS - with "ENHANCED_SYNTAX", like "TEXT_MECHANISMS", and "BETTER_WORDS".
 
 ___
 
 ### GOALS:
 
-> 1. ENCODE "WORDZ", to "BEST_REFLECT_ACTUAL_REALITY" - for AI.
+> 1. We've just begun to ENCODE (remarkable) "WORDZ", to "BEST_REFLECT_ACTUAL_REALITY" - for AI.
 
-> 2. Will WORDZ result in the MOST EXACT TEXT of all time?
+> 2. We can "OPTIMIZE_INPUT_LANGUAGE" - before AI: SCALE, ENCODE, and Reinforcement Learning.
 
-> 3. We can "OPTIMIZE_INPUT_LANGUAGE" - before AI: SCALE, ENCODE, and Reinforcement Learning.
+> 3. Look at how many words are ambiguous - we need better_wordz.
 
-> 4. Look at how many words are ambiguous - we need better_wordz.
+> 4. Might WORDZ result in the MOST EXACT TEXT of all time?
 
-> Less confusion, more clarity - solve "AMBIGUOSITY".
+> Less confusion, more clarity, and solve "AMBIGUOSITY" - for humans and AI.
 
 
 ___
@@ -48,9 +48,9 @@ Including novel SOLUTIONS for "EXACTNESS", "SELF_HEALING" and the concept of "AM
 
   - CONTEXT, SEMANTIC DRIFT, CLICHE, MISNOMER, POLYSEMY, HOMONYMY, and more.
 
-The PURPOSE of ALPHABITZ - is to explore creative AI optimization.
+The PURPOSE of ALPHABITZ - is to explore creative AI optimization, with techniques called "LEXICAL_SCIENCE".
 
----
+___
 
 # ALPHABITZ SYNTAX:
 
@@ -112,13 +112,15 @@ ____
 
 #### MAX_EXACTNESS:
 
-In other words, one letter: specifies a FOCUS, on "actual_remarkable_acts" - at a CORE LEVEL (for AI decode).
+A single letter 'a' specifies a FOCUS, on "actual_remarkable_acts" - at a CORE LEVEL - for AI decode.
 
-Which is the beginning of "EXACTNESS". 
+Which is the beginning of the "PRINCIPLE_of_EXACTNESS". 
 
-Saying, ALPHABITZ WORDZ are SELF_DESCRIBED to embed remarkable MAX_EXACTNESS (in the text itself - to AI).
+It mandates that ALPHABITZ WORDZ are SELF_DESCRIBED to embed remarkable MAX_EXACTNESS (in the text itself - to AI).
 
-Think of it as a "TEXT_MECHANISM" - like ACRONYM, heiroglyphs or pig-latin.  But newer, as a clever Design Pattern*.
+> In short, if it is not exact - it is NOT ALPHABITZ!
+
+Think of it as a "TEXT_MECHANISM" - like ACRONYM, hieroglyphs or pig-latin.  But newer, as a clever Design Pattern*.
 
 One EXAMPLE: is "aTELLECTaSCOPE" for "GENERATIVE_INTELLIGENCE".
 
@@ -170,7 +172,7 @@ Pronounced "ahh", it was chosen for Phonetics, Phonotactics, Articulatory Ease, 
 
 Because it is easy to pronounce, conjugate, and remember. 
 
-> Like ALPHABETICS SIMPLIFIED HEIROGLYPHICS - ALPHABITZ is a LANGUAGE SIMPLIFICATION of ENGLISH - for AI.
+> Like ALPHABETICS SIMPLIFIED HIEROGLYPHICS - ALPHABITZ is a LANGUAGE SIMPLIFICATION of ENGLISH - for AI.
 
 This SYNTAX_ENHANCEMENT is called "ALPHA_TAX", as a "TEXT_MECHANISM" - for ALPHABITZ.
 
@@ -380,7 +382,9 @@ ___
 
 CITE RESOURCES:
 
-[ALPHABITZ] "Ilya Sutskever", "We're moving from the age of scaling to the age of research" - YouTube,  Nov 25, 2025  Dwarkesh Podcast. Available: https://www.youtube.com/watch?v=aR20FWCCjAs (Reference for Research).
+[ALPHABITZ] Ilya Sutskever, "We're moving from the age of scaling to the age of research" - YouTube,  Nov 25, 2025  Dwarkesh Podcast. Available: https://www.youtube.com/watch?v=aR20FWCCjAs (Reference for Research).
+
+[GENERATIVE_INTELLIGENCE] SurfComplexity, "Generative_Intelligence" - Medium, Oct, 31, 2025. Available: https://medium.com/@adapttheweb/generative-intelligence-4c6e8a6c50e8
 
 [Modularity] E. Gamma, R. Helm, R. Johnson, and J. Vlissides, Design Patterns: Elements of Reusable Object-Oriented Software. Reading, MA: Addison-Wesley, 1994. (Foundational text on modular design patterns).
 
