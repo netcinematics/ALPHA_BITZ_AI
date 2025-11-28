@@ -46,6 +46,7 @@ ___
 - LlmAGENT: research_agent, and embedded_data_agent.
 - SequentialAgent: analysis_agent, summary_agent.
 - Google_Search Tool: research_agent, scan scene, problem space analysis.
+- after_agent_callback, auto_save_to_memory.
 - Custom Tools: data parsing, comprehension measurement metrics.
 - Session, State, Memory management.
 - MCP (MODEL, CONTEXT, PROTOCOL): load GITHUB DATA and GEMINI embed vectors.
