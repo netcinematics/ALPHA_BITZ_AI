@@ -16,7 +16,11 @@ ___
 
 4. As far as INTELLIGENCE is VOCABULARY - for AI to have "extra intellect" - it needs EXTRA VOCABULARY (for extra concept embedding).
 
-5. After "AGE of SCALING" (*Ilya Sutskever) - ADDITIONAL OPTIMIZATION AWAITS - with "ENHANCED_SYNTAX", like "TEXT_MECHANISMS", and "BETTER_WORDS".
+5. *Ilya Sutskever, "After AGE of SCALING, is AGE of RESEARCH" - and "The Data is very clearly FINITE".
+
+This CAPSTONE, is RESEARCH that SHOWS - TRAINING DATA IS NOT FINITE (it can be DYNAMIC).
+
+> ADDITIONAL OPTIMIZATION AWAITS AI - within "ENHANCED_SYNTAX", and "TEXT_MECHANISMS", with "BETTER_WORDS".
 
 ___
 
