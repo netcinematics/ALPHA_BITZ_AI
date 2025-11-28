@@ -4,7 +4,7 @@
 
 ___
 
-## SIMPLIFIED THESIS:
+## SIMPLIFIED THESIS ("what"):
 
 1. Humanity is "MISSING_WORDS".
    
@@ -24,7 +24,7 @@ This CAPSTONE, is RESEARCH that SHOWS - TRAINING DATA IS NOT FINITE (it can be D
 
 ___
 
-### GOALS:
+### GOALS ("why"):
 
 > 1. We've just begun to ENCODE (remarkable) "WORDZ", to "BEST_REFLECT_ACTUAL_REALITY" - for AI.
 
@@ -39,8 +39,33 @@ ___
 
 ___
 
+### GEMINI FEATURES UTILIZED and LEARNED in CAPSTONE ("how":
 
-### ALPHABITZ OVERVIEW:
+- CONTEXT ENGINEERING: prompts, persona, tools, data.
+- MAS (MULTI AGENT-SYSTEM): agent_as_judege.
+- LlmAGENT: research_agent, and embedded_data_agent.
+- SequentialAgent: analysis_agent, summary_agent.
+- Google_Search Tool: research_agent, scan scene, problem space analysis.
+- Custom Tools: data parsing, comprehension measurement metrics.
+- Session, State, Memory management.
+- MCP (MODEL, CONTEXT, PROTOCOL): load GITHUB DATA and GEMINI embed vectors.
+- 3D Visualization with Python Plotly.
+- Log, Trace, Metrics, Observability.
+- Google ADK and Google ADK UI.
+
+___
+
+### Why Gemini Agents?
+
+Gemini ADK agent architecture is best for this problem because of modularity, and seamless integration with AgentLlm.
+
+Additionally, it is flexible to interface, observe, and iterate into adaptive designs of many custom tools.
+
+A MARKDOWN file is used in this capstone to show MCP Context Engineering from GITHUB DATA to 3D Data Visualization - to METRIC TESTING.
+
+___
+
+## ALPHABITZ OVERVIEW ("purpose"):
 
 ALPHABITZ is a language optimization - for Artificial Intelligence and HUMANS.
 
@@ -62,7 +87,7 @@ This file describes the syntax for ALPHABITZ - for HUMANS.
 
 ___
 
-### BENEFITS:
+### BENEFITS ("value proposition"):
 
 A few surprising benefits of “ENHANCED_SYNTAX” in "OPTIMIZED_INPUT_LANGUAGE" ("AI_OIL"):
 
@@ -89,7 +114,7 @@ No more, "Training by Junk Food" - exactness of vocabulary is "mind vitamins".
 ___
 
 
-### WORDZ:
+### "WORDZ":
 
 Use SYNTAX_ENHANCEMENTS for NEOLOGISMS called "WORDZ".
 
@@ -111,6 +136,8 @@ ___
 ### PRINCIPLES_of_ALPHABITZ:
 
 The following SYNTAX PRINCIPLES will allow you to DECODE ALPHABITZ, and aWORDZa.
+
+The SYNTAX below is used in the CAPSTONE to MEASURE OPTIMIZATION and AI COMPREHENSION.
 
 ____
 
@@ -325,6 +352,8 @@ Transforming the overlooked letter "Z" and "X" into ZETA_TAX mechanism - is a gr
 ### CLUSTER_OVERVIEW:
 
 This is an example of how to GROUP aCOMBINaWORDZa across vector_spectra, like genus, phylum, kindom, etc.
+
+These CONCEPTS are used in the CAPSTONE by EMBED_AGENTS to visualize the Parallel_Dimension in EMBED SPACE.
 
 #### aCLUSTERZaINDEXa:
 
