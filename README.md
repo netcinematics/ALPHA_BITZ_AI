@@ -51,7 +51,7 @@ ___
 - Session, State, Memory management.
 - MCP (MODEL, CONTEXT, PROTOCOL): load GITHUB DATA and GEMINI embed vectors.
 - 3D Visualization with Python Plotly.
-- Log, Trace, Metrics, Observability.
+- LoggingPlugin, Trace, Metrics, Rubric, Observability.
 - Google ADK and Google ADK UI.
 
 ___
