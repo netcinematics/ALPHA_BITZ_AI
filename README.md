@@ -16,7 +16,7 @@ ___
 
 4. As far as INTELLIGENCE is VOCABULARY - for AI to have "extra intellect" - it needs EXTRA VOCABULARY (for extra concept embedding).
 
-5. After "ERA of SCALING" (*Ilya Sutskever) - ADDITIONAL OPTIMIZATION AWAITS - with "ENHANCED_SYNTAX", like "TEXT_MECHANISMS", and "BETTER_WORDS".
+5. After "AGE of SCALING" (*Ilya Sutskever) - ADDITIONAL OPTIMIZATION AWAITS - with "ENHANCED_SYNTAX", like "TEXT_MECHANISMS", and "BETTER_WORDS".
 
 ___
 
