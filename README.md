@@ -431,6 +431,9 @@ CITE RESOURCES:
 
 [Exactness] International Organization for Standardization, "Date and time — Representations for information interchange," ISO 8601-1:2019, 2019.
 
+[Kaggle Competition] agents-intensive-capstone-project, Addison Howard and Brenda Flynn and Eric Schmidt and Kanchana Patlolla and Kinjal Parekh and María Cruz and Naz Bayrak and Polong Lin and Ray Harvey,
+    Agents Intensive - Capstone Project, 2025, Available: https://kaggle.com/competitions/agents-intensive-capstone-project, Kaggle.
+
 [Technology] Google DeepMind, "Gemini API Documentation," Google AI for Developers, 2024. [Online]. Available: https://ai.google.dev/docs.
 
 
