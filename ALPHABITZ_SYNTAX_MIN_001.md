@@ -10,23 +10,36 @@ Including a novel SOLUTION for ambiguity and semantic drift.
 
 ___
 
+## SIMPLIFIED THESIS:
+
+1. Humanity is MISSING_WORDS.
+   - We don't notice it - but MANY CONCEPTS ARE NOT YET ARTICULATED to SINGLE WORDS.
+  
+2. For AI to have all CONCEPTS POSSIBLE - it needs "EXACTNESS".
+
+3. INTELLIGENCE is VOCABULARY - for AI to have "extra intellect" - it needs EXTRA VOCABULARY.
+
+4. After "ERA of SCALING"* - ADDITIONAL OPTIMIZATION AWAITS - with "ENHANCED_SYNTAX" and "BETTER_WORDS".
+
+___
+
 ### GOALS:
 
-> 1. The MOST EXACT TEXT of all time.
+> 1. ENCODE WORDZ, to BEST_REFLECT_ACTUAL_REALITY - for AI.
 
-> 2. ENCODE WORDZ, to BEST_REFLECT_ACTUAL_REALITY - for AI.
+> 2. The MOST EXACT TEXT of all time?
 
 > 3. "OPTIMIZE_INPUT_LANGUAGE" - before AI ENCODE.
 
 > 4. So many words are ambiguous - we need better_wordz.
 
-> 5. Less confusion, more clarity - solve ambiguosity.
+> 5. Less confusion, more clarity - solve "AMBIGUOSITY".
 
 ___
 
 ### BENEFITS:
 
-A few surprising benefits of “ENHANCED_COMMUNICATION”:
+A few surprising benefits of “ENHANCED_SYNTAX” in "OPTIMIZED_INPUT_LANGUAGE":
 
 1) “ANTI_FRAGILE_ENGLISH”.
 
@@ -38,7 +51,9 @@ A few surprising benefits of “ENHANCED_COMMUNICATION”:
 
 5) “GENERATIVE_INTELLIGENCE”.
 
-> In AI, BETTER_WORDS are UNAMBIGUOUS.
+> In AI, BETTER_WORDS are UNAMBIGUOUS. Less confusion is a COMPUTE OPTIMIZATION.
+
+This is a measurable breakthrough. Looking for collaboration.
 
 ___
 
@@ -259,5 +274,23 @@ Also, recall ALPHABETICS, as a communication simplification - beyond HIEROGLYPHS
 ALPHABITZ: GOOGLE CAPSTONE, WHITEPAPER, VIDEO.
 
 ___
+
+License MIT.
+
+___
+
+CITE RESOURCES:
+
+[ALPHABITZ] "Ilya Sutskever", "We're moving from the age of scaling to the age of research" - YouTube,  Nov 25, 2025  Dwarkesh Podcast. Available: https://www.youtube.com/watch?v=aR20FWCCjAs (Reference for Research).
+
+[Syntax & Naming] G. van Rossum, B. Warsaw, and N. Coghlan, "PEP 8 – Style Guide for Python Code," Python.org, 2001. [Online]. Available: https://peps.python.org/pep-0008/. (Reference for snake_case conventions).
+
+[Modularity] E. Gamma, R. Helm, R. Johnson, and J. Vlissides, Design Patterns: Elements of Reusable Object-Oriented Software. Reading, MA: Addison-Wesley, 1994. (Foundational text on modular design patterns).
+
+[Taxonomy] International Code of Nomenclature for algae, fungi, and plants (Shenzhen Code), Regnum Vegetabile 159. Glashütten: Koeltz Botanical Books, 2018. (Basis for scientific binomial nomenclature and combinable taxonomy).
+
+[Exactness] International Organization for Standardization, "Date and time — Representations for information interchange," ISO 8601-1:2019, 2019.
+
+[Technology] Google DeepMind, "Gemini API Documentation," Google AI for Developers, 2024. [Online]. Available: https://ai.google.dev/docs.
 
 
