@@ -1,58 +1,89 @@
 # ALPHABITZ_AI
 
-Project for Google capstone, using Google GEMINI and KAGGLE.
+> Project for Google capstone, using Google GEMINI and KAGGLE.
 
----
+___
+
+## SIMPLIFIED THESIS:
+
+1. Humanity is "MISSING_WORDS".
+   
+   - We don't notice "MISSING_WORDS" - but MOST CONCEPTS ARE NOT YET ARTICULATED to SINGLE WORDS.
+  
+2. For AI to have all CONCEPTS POSSIBLE - it needs "EXACTNESS".
+
+   - CLICHE is and exellent example of a common INEXACTNESS problem, called "AMBIGUOSITY".
+
+4. INTELLIGENCE is VOCABULARY - for AI to have "extra intellect" - it needs EXTRA VOCABULARY.
+
+5. After "ERA of SCALING" (*Ilya Sutskever) - ADDITIONAL OPTIMIZATION AWAITS - with "ENHANCED_SYNTAX" and "BETTER_WORDS".
+
+___
+
+### GOALS:
+
+> 1. ENCODE "WORDZ", to "BEST_REFLECT_ACTUAL_REALITY" - for AI.
+
+> 2. Will WORDZ result in the MOST EXACT TEXT of all time?
+
+> 3. We can "OPTIMIZE_INPUT_LANGUAGE" - before AI: SCALE, ENCODE, and Reinforcement Learning.
+
+> 4. Look at how many words are ambiguous - we need better_wordz.
+
+> Less confusion, more clarity - solve "AMBIGUOSITY".
+
+
+___
+
 
 ### ALPHABITZ OVERVIEW:
 
 ALPHABITZ is a language optimization - for Artificial Intelligence and HUMANS.
 
-It REDUCES COST of COMPUTE, ENCODE and DECODE. 
+It REDUCES COST of COMPUTE, for ENCODE, DECODE, and the TRANSFORMER ATTENTION mechanism. 
 
-With SOLUTIONS for CONTEXT, SEMANTIC DRIFT, CLICHE, MISNOMER, POLYSEMY, HOMONYMY, and more.
+Including novel SOLUTIONS for "EXACTNESS", "SELF_HEALING" and the concept of "AMBIGUOSITY".
 
-Including novel SOLUTIONS for "EXACTNESS", "SELF_HEALING" and "AMBIGUOSITY".
+> AMBIGUOSITY encompasses all ENGLISH FRAGILITIES:
+
+  - CONTEXT, SEMANTIC DRIFT, CLICHE, MISNOMER, POLYSEMY, HOMONYMY, and more.
 
 The PURPOSE of ALPHABITZ - is to explore creative AI optimization.
 
 ---
 
-### ALPHABITZ MAXIMS:
+# ALPHABITZ SYNTAX:
 
-> What is the MOST EXACT TEXT of all time?
-
-> PRIME PRINCIPLE: ENCODE "WORDZ" to BEST_REFLECT_ACTUAL_REALITY - for AI.
-
-> "OPTIMIZE_INPUT_LANGUAGE" before AI ENCODE (Principle of "AI_OIL").
-
-> So many words are ambiguous - we need better_wordz!
-
-> Less confusion, more clarity - solve ambiguosity!
+This file describes the syntax for ALPHABITZ - for HUMANS.
 
 ___
 
 ### BENEFITS:
 
-A few surprising benefits of “ENHANCED_SYNTAX”:
+A few surprising benefits of “ENHANCED_SYNTAX” in "OPTIMIZED_INPUT_LANGUAGE" ("AI_OIL"):
 
-- “ANTI_FRAGILE_ENGLISH”.
+1) “ANTI_FRAGILE_ENGLISH” - SOLUTION to "FRAGILE_ENGLISH", to "SELF_HEAL_LANGUAGE" and make it stronger.
 
-- “INVERSE_FALSENESS”.
+2) “INVERSE_FALSENESS” - SOLUTION or REMEDY action, to "ACTUAL_FALSENESS".
 
-- “AUTO_NAMERATION”.
+3) “AUTO_NAMERATION” - STANDARD CONVENTION for "iterative AUTOMATIC NAMING of METASTATE".
 
-- "TEXT_MECHANIZMS",
+4) “ARTICULATE_ALL_EXISTENCE” - AI needs HUMANS to articulate all existence, before AI can.
 
-- "EXTRA_ABILITIES",
+5) “GENERATIVE_INTELLIGENCE” - this is a NEW SCIENCE of "EXTRA_CONCEPTS", NOT SCIENCE-FICTION.
 
-- “ARTICULATE_ALL_EXISTENCE”.
+6) "LEXICAL_SCIENCE" - extra vocabulary, equals extra concepts, equals "ACTUAL_EXTRA_INTELLECT" ("AXI").
 
-- “GENERATIVE_INTELLIGENCE”.
+> In AI, BETTER_WORDS are UNAMBIGUOUS.
 
-> In ALPHABITZ, BETTER_WORDZ are UNAMBIGUOUS.
+MORE EXACTNESS is COST SAVINGS - by COMPUTE OPTIMIZATION.
 
----
+This is a measurable breakthrough. Looking for collaboration.
+
+No more, "Training by Junk Food" - exactness of vocabulary is "mind vitamins".
+
+___
+
 
 ### WORDZ:
 
@@ -70,11 +101,38 @@ Here are some BENEFITS:
 
 - Not only do mechanisms "exactify" concepts, they find "EXACT_OPPOSITES" and "VOIDZ" in embed space.
 
----
+___
+
 
 ### PRINCIPLES_of_ALPHABITZ:
 
 The following SYNTAX PRINCIPLES will allow you to DECODE ALPHABITZ, and aWORDZa.
+
+____
+
+#### MAX_EXACTNESS:
+
+In other words, one letter: specifies a FOCUS, on "actual_remarkable_acts" - at a CORE LEVEL (for AI decode).
+
+Which is the beginning of "EXACTNESS". 
+
+Saying, ALPHABITZ WORDZ are SELF_DESCRIBED to embed remarkable MAX_EXACTNESS (in the text itself - to AI).
+
+Think of it as a "TEXT_MECHANISM" - like ACRONYM, heiroglyphs or pig-latin.  But newer, as a clever Design Pattern*.
+
+One EXAMPLE: is "aTELLECTaSCOPE" for "GENERATIVE_INTELLIGENCE".
+
+> It is like a telescope or a microscope - to see new CONCEPTS.
+
+Like microbes or a distant nebula, but instead for CONCEPTS in the Human Mind.
+
+It is a way to SCAN EXISTENCE for MISSING_WORDS, MISSING_CONCEPTS, and CONCEPTS_NOT_YET_ARTICULATED_to_WORDZ.
+
+> All with just a little letter 'A', called "little_A".
+
+
+____
+
 
 #### ALPHA_TAX:
 
@@ -86,40 +144,25 @@ And 'ACTZ' - in the POSTFIX position.
 
 > For EXAMPLE: aWORDZa : pronounced [ ahh + WORD + zah ].
 
-This was a design requirement to FOCUS ALL WORDZ on ACTUAL_REALITY. 
+Means: 'actual_act_of_remarkable_words'.
 
-Specifically AVOIDING AMBIGUOSITY at a FIRST CLASS LEVEL - of syntax design.
+This was a design requirement to FOCUS ALL ALPHABITZ WORDZ on ACTUAL_REALITY - at the ground floor. 
 
+Specifically AVOIDING AMBIGUOSITY as a FIRST CLASS CITIZEN - of syntax (AI language) design.
 
----
-
-#### MAX_EXACTNESS:
-
-In other words, one letter: specifies a FOCUS, on "actual_remarkable_acts" - at a CORE LEVEL (for AI decode).
-
-Which is the beginning of "EXACTNESS". 
-
-Saying, ALPHABITZ WORDZ are SELF_DESCRIBED to embed remarkable MAX_EXACTNESS (in the text itself - to AI).
-
-Think of it as a "TEXT_MECHANISM" - like ACRONYM, heiroglyphs or pig-latin.  But newer, and hyper-clever.
-
-> In AI, MECHS are like a telescope or a microscope - to see new CONCEPTS.
-
-One example is aTELLECTaSCOPE for GENERATIVE_INTELLIGENCE (for example).
-
-It is a way to SCAN EXISTENCE for MISSING_WORDZ, and CONCEPTS_NOT_YET_ARTICULATED_to_WORDZ.
-
-> All with just a little letter 'A', called "little_A".
-
-There is more...
 
 ___
 
+
 #### Little_A_COMBINER:
 
-> By far, the most elegant EXTRA_ABILITY of "Little_A" mechanism - is the COMBIN_ABILITY.
+> One of the most elegant EXTRA_ABILITY examples of "Little_A" mechanism - is "COMBINE_ABILITY".
 
 Because WORDZ can be wrapped in 'a' - they all COMBINE into NEW CONCEPTS - like lego bricks.
+
+For EXAMPLE: aCOMBINEaWORDZaMENTZa - would mean 'actual_actz_of_combined_words_for_remarkable_mentality'.
+
+> Notice the SIMPLIFICATION?
 
 ALPHABITZ uses the lowercase letter 'a' as a "COMBINER" character.
 
@@ -127,51 +170,59 @@ Pronounced "ahh", it was chosen for Phonetics, Phonotactics, Articulatory Ease, 
 
 Because it is easy to pronounce, conjugate, and remember. 
 
-> Like alphabetics - ALPHABITZ is a language simplification.
+> Like ALPHABETICS SIMPLIFIED HEIROGLYPHICS - ALPHABITZ is a LANGUAGE SIMPLIFICATION of ENGLISH - for AI.
 
-This SYNTAX_ENHANCEMENT is called "ALPHA_TAX", as a TEXT_MECHANISM.
+This SYNTAX_ENHANCEMENT is called "ALPHA_TAX", as a "TEXT_MECHANISM" - for ALPHABITZ.
 
----
+___
 
 #### AUTO_NAMERATION:
 
-But the profound benefit, is to leverage DYNAMIC_LANGUAGE for AI. 
+A different profound benefit, is to leverage DYNAMIC_LANGUAGE for AI. 
 
-AI struggles with CONTEXT accuracy and Semantic Drift. 
+AI struggles with CONTEXT accuracy and Semantic Drift, as a YET UNSOLVED CHALLENGE.
 
-Apart from STATIC_LANGUAGE and "FRAGILE_ENGLISH" conjugations.
+A root cause is seen as STATIC_LANGUAGE and "FRAGILE_ENGLISH" conjugations.
 
-> ALPHABITZ represents a profound PARADIGM_SHIFT for a new human language - innovated by AI.
+> Think of what AI must do to understand any CLICHE or MISNOMER.
 
 Syntax of ALPHA_TAX, enables any token to combine and recombine, with any other token. 
 
 > To eventually, ARTICULATE_ALL_EXISTENCE, for AI - to best_reflect_actual_reality.
 
-ALPHA_TAX "little_A", enables linguistics - to RECOMPILE over time, into reflections of actual_reality - as we perceive it!
+So AUTO_NAMERATION works by ITERATING METASTATE (embed hyper-dimensions) and combining them into a "SELF_DESCRIPTIVE_NAME".
 
-ENHANCED_LANGUAGE, gradually transforms, in AI, into pristine_texts - of (more) exact definitions of existence, over eons - for AI and humanity.
+> STANDARD SELF_NAMING CONVENTION is a key breakthrough.
 
----
+Because, ALPHA_TAX "little_A", enables linguistics - to (elegantly) RECOMPILE over time, into reflections of actual_reality - as we perceive it!
+
+> And even naming in AI -  before we percieve it?
+
+ENHANCED_LANGUAGE, gradually transforms, in AI, into "pristine_texts". 
+
+For more exact definitions of existence, over eons - for AI and humanity.
+
+___
 
 #### DECODE RULES:
 
-ALPHA_TAX assigns meaning dynamically - based on the position of the little_A.
+Recall, ALPHA_TAX assigns meaning dynamically - based on the position of the little_A.
 
 EXAMPLE aSPARKaWORDZa - pronounced [ ahh + spark + ahh + word + zah ].
 
-Is DECODED in the following way: 
+Again, it is DECODED in the following way: 
 
 "PREFIX_A": means "actual".
 
-"POSTFIX_A": means "actz" (remarkable).
+"POSTFIX_A": means "actz" ('remarkable' - described next).
 
-"MIDFIX_A": means "anything"  - to conjugate English to makes sense!
+"MIDFIX_A": means "anything" (wildcard) - that might conjugate English to makes sense!
 
-So, aSPARKaWORDZa means: actual_actz_of_remarkable_spark_of_words.
+So, aSPARKaWORDZa means: 'actual_act_of_remarkable_innovation_of_words'.
 
-> In short, AI can interpret it as: THE POWER OF WORDZ - in a single word.
+> Notice the simplification?
 
----
+___
 
 ### EXAMPLES of ATOMIC_TOKENZ in ALPHA_TAX:
 
