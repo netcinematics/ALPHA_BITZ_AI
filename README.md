@@ -428,6 +428,8 @@ CITE RESOURCES:
 
 [Mental Lexicon] Rodd, J. M., Gaskell, M. G., & Marslen-Wilson, W. D. (2002). "Non-uniform structure in the human mental lexicon: Evidence from eye-tracking during reading." Cognitive Psychology, 44(1), 1-52.
 
+[Anti-Fragility] Taleb, N. N. (2012). Antifragile: Things That Gain from Disorder. Random House. Available: https://www.penguinrandomhouse.com/books/176227/antifragile-by-nassim-nicholas-taleb/
+
 [Taxonomy] International Code of Nomenclature for algae, fungi, and plants (Shenzhen Code), Regnum Vegetabile 159. Glashütten: Koeltz Botanical Books, 2018. (Basis for scientific binomial nomenclature and combinable taxonomy).
 
 [Ambiguosity] Source: Xu, M., Lin, J., Zheng, Q., Li, W., Sun, Y., & Ji, P. (2023). "Large Language Models Struggle with Ambiguous Instructions." Findings of the Association for Computational Linguistics: EMNLP 2023.
