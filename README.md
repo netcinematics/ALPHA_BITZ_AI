@@ -430,6 +430,8 @@ CITE RESOURCES:
 
 [Taxonomy] International Code of Nomenclature for algae, fungi, and plants (Shenzhen Code), Regnum Vegetabile 159. Glashütten: Koeltz Botanical Books, 2018. (Basis for scientific binomial nomenclature and combinable taxonomy).
 
+[Ambiguosity] Source: Xu, M., Lin, J., Zheng, Q., Li, W., Sun, Y., & Ji, P. (2023). "Large Language Models Struggle with Ambiguous Instructions." Findings of the Association for Computational Linguistics: EMNLP 2023.
+
 [Exactness] International Organization for Standardization, "Date and time — Representations for information interchange," ISO 8601-1:2019, 2019.
 
 [Kaggle Competition] agents-intensive-capstone-project, Addison Howard and Brenda Flynn and Eric Schmidt and Kanchana Patlolla and Kinjal Parekh and María Cruz and Naz Bayrak and Polong Lin and Ray Harvey,
