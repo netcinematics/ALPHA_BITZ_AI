@@ -434,6 +434,8 @@ CITE RESOURCES:
 
 [Exactness] International Organization for Standardization, "Date and time — Representations for information interchange," ISO 8601-1:2019, 2019.
 
+[Ontology] W3C (World Wide Web Consortium). (2012). "OWL 2 Web Ontology Language Document Overview." W3C Recommendation, 11 December 2012.
+
 [Kaggle Competition] agents-intensive-capstone-project, Addison Howard and Brenda Flynn and Eric Schmidt and Kanchana Patlolla and Kinjal Parekh and María Cruz and Naz Bayrak and Polong Lin and Ray Harvey,
     Agents Intensive - Capstone Project, 2025, Available: https://kaggle.com/competitions/agents-intensive-capstone-project, Kaggle.
 
