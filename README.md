@@ -410,6 +410,10 @@ All WORDZ are PUBLIC DOMAIN - MIT
 
 ___
 
+ALPHABITZ VIDEO: https://youtu.be/B6dQQZk-Uqk
+
+___
+
 License MIT.
 
 ___
