@@ -410,6 +410,10 @@ All WORDZ are PUBLIC DOMAIN - MIT
 
 ___
 
+ALPHABITZ VIDEO: https://youtu.be/B6dQQZk-Uqk
+
+___
+
 License MIT.
 
 ___
@@ -428,13 +432,17 @@ CITE RESOURCES:
 
 [Mental Lexicon] Rodd, J. M., Gaskell, M. G., & Marslen-Wilson, W. D. (2002). "Non-uniform structure in the human mental lexicon: Evidence from eye-tracking during reading." Cognitive Psychology, 44(1), 1-52.
 
+[Anti-Fragility] Taleb, N. N. (2012). Antifragile: Things That Gain from Disorder. Random House. Available: https://www.penguinrandomhouse.com/books/176227/antifragile-by-nassim-nicholas-taleb/
+
+[Embedded Space] Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). "Efficient Estimation of Word Representations in Vector Space." arXiv preprint arXiv:1301.3781.
+
 [Taxonomy] International Code of Nomenclature for algae, fungi, and plants (Shenzhen Code), Regnum Vegetabile 159. Glashütten: Koeltz Botanical Books, 2018. (Basis for scientific binomial nomenclature and combinable taxonomy).
 
-[Ambiguosity] Source: Xu, M., Lin, J., Zheng, Q., Li, W., Sun, Y., & Ji, P. (2023). "Large Language Models Struggle with Ambiguous Instructions." Findings of the Association for Computational Linguistics: EMNLP 2023.
+[Ontology] W3C (World Wide Web Consortium). (2012). "OWL 2 Web Ontology Language Document Overview." W3C Recommendation, 11 December 2012.
 
 [Exactness] International Organization for Standardization, "Date and time — Representations for information interchange," ISO 8601-1:2019, 2019.
 
-[Ontology] W3C (World Wide Web Consortium). (2012). "OWL 2 Web Ontology Language Document Overview." W3C Recommendation, 11 December 2012.
+[Ambiguosity] Source: Xu, M., Lin, J., Zheng, Q., Li, W., Sun, Y., & Ji, P. (2023). "Large Language Models Struggle with Ambiguous Instructions." Findings of the Association for Computational Linguistics: EMNLP 2023.
 
 [Kaggle Competition] agents-intensive-capstone-project, Addison Howard and Brenda Flynn and Eric Schmidt and Kanchana Patlolla and Kinjal Parekh and María Cruz and Naz Bayrak and Polong Lin and Ray Harvey,
     Agents Intensive - Capstone Project, 2025, Available: https://kaggle.com/competitions/agents-intensive-capstone-project, Kaggle.
