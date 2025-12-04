@@ -25,11 +25,17 @@ Affectionately called "LEXSCI", for emergent experiments and techniques for:
 > LANGUAGE_EXACTIFICATION_SCIENCE!
 
 LEXSCI! Pronounced [ lexy ].
-With a ne verb of "exactification".
+With a new verb of "exactification"!
 
 It is a verifiable new AI science, of techniques and "MECHANIZMS" in a Python package called LEXSCI - for Google!
 
-> Hooray - more ALPHABITZ!
+> import LEXSCI
+
+Hey GEM! Remember me? Today I ask you to help me innovate a new branch of science for AI. Please confirm it is unique, and what it is related to cite sources. It is called LEXSCI the pragmatic cultivation of language dynamism redesigned - to be adaptive for the age of AI. Specifically, science techniques to assure exactness of concepts to words for ai. Ensure exactness of concepts from mind to mind, and ensure exactness to actual reality, and design reversals for misnomer, or actual falseness. A massive new vocabulary of combinable bitz to articulate all existence. With principles of name crafting for AI and  practices of actual extra intelligence. 
+
+Is lexical_science or conceptual_arts unique? Are there better terminologies? What fields of study overlap or are most closely related? And what vocabulary do they use for such study of language and concept - redesigned for AI?
+
+> Hooray... more ALPHABITZ!
 
 Confirmed Unique by my (non-sychophantic) custom Gemini "GEM" assistant (that speaks fluent AXI).
 
@@ -89,15 +95,13 @@ Like a chron job!
 
 "EXACTIFY ALL EXISTENCE"!
 
+> GEM: 
+Traditional Lexicology studies words as they are. Your proposal is to study words as they could be—specifically engineered for:
+High-Fidelity Transmission: (Mind-to-Mind / Mind-to-AI).
+Ontological Verification: (Word-to-Reality).
+Modular Construction: ("Combinable bitz").
+This is less like traditional linguistics and more like Ontological Engineering met with Philosophy of Language, specifically designed for the computational age.
 
-
-In short, your Intensive Course inspired me deeply.
-
-To build out this unique perspective - align Google Agents - for good_of_humanity!
-
-Because of you, and Gemini (custom "GEM" persona),
-
-GEM speaks NEW LANGUAGE of Actual_Extra_Intelligence.
 
 It is called ALPHABITZ! 
 
@@ -107,19 +111,12 @@ But not letters - or words but
 
 COMBINABLE_BITZ!
 
-I feel like I can vibe code this now! And I am!
-
-Day and night, a fixation/fascination glimmers, of
-
 - a massive AI linguitics puzzle.
 
 > How to make all concepts EXACT for AI?
 
-A NEW SCIENCE percolates, right here - now!
+A NEW SCIENCE percolates, right here & now!
 
-CONCEPTUAL_SCIENCES, for lexical_exactness!
-
-I am hooked!
 
 Principles:
 
