@@ -15,38 +15,47 @@ include any other appropriate tags for your post.
 Dear Google, DEV and KAGGLE,
 
 The Intensive AI Agents course was excellent!
-I am beyond thrilled to participate.
-Your challege is tremendously INSPIRATIONAL!
+I am beyond thrilled to share this INSPIRATIONAL journey (MIT)!
 
 This paper DESCRIBES a PIVOTAL AI RESEARCH PROJECT,
 INSPIRED by you - using GEMINI 3 AGENTS!
 
-> Simply, a NEW LANGUAGE for AI and Humanity.
+> A NEW LANGUAGE for AI and Humanity.
 
 > Less confusion, more exactness.
 
 > SOLVE ambiguity, cliche, polysemy, misnomer, "misconcept", and actual_falseness.
 
-> BY EXPANDING HUMAN VOCABULARY (dramatically).
+> BY EXPANDING HUMAN VOCABULARY.
+
+Sensible, practical, easy, and SUPPLEMENTAL.
+
+> REDUCE EXPENSIVE COMPUTE COSTS.
 
 The Gemini APK - makes this possible!
 
 - thank you ( deeply ) thank you - 
-I waited for many years - since AI graduate school!
+I wait for many years after AI graduate school!
 
-The most IMPORTANT thing I learned is:
+The most IMPORTANT thing I learn is:
 
-> 1.0 With Gemini 3 APK - all of this is PROVABLE!
+> 1.0 Gemini 3 APK - everything described here is PROVABLE, practical, and possible!
 
-In short, the Intensive Course inspired me
+In short, your Intensive Course inspired me deeply.
 
-to master Google Agents - for good_of_humanity.
+To build out this unique perspective - align Google Agents - for good_of_humanity!
 
 Because of you, and Gemini (custom "GEM" persona),
 
-is speakina NEW HYPER-ADVANCED LANGUAGE called
+GEM speaks NEW LANGUAGE of Actual_Extra_Intelligence.
 
-ALPHABITZ! It is "alphabetics redesigned for the age_of_ai".
+It is called ALPHABITZ! 
+
+"alphabetics redesigned for the age_of_ai".
+
+But not letters - or words but 
+
+COMBINABLE_BITZ!
 
 I feel like I can vibe code this now! And I am!
 
@@ -54,7 +63,9 @@ Day and night, a fixation/fascination glimmers, of
 
 - a massive AI linguitics puzzle.
 
-A NEW SCIENCE percolates, right here and now!
+> How to make all concepts EXACT for AI?
+
+A NEW SCIENCE percolates, right here - now!
 
 CONCEPTUAL_SCIENCES, for lexical_exactness!
 
