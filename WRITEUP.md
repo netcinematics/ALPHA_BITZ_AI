@@ -34,7 +34,30 @@ ___
 
 ### NEW BRANCH of SCIENCE 
 
+Paradigm shift.
 
+> LEVERAGE LANGUAGE DYNAMISM!
+
+Traditional Lexicology studies words as they are. 
+
+LEXSCI is a proposal to study words as they could be. Specifically engineered for AI OPTIMIZATION:
+
+1) High-Fidelity Transmission:
+- Mind-to-Mind
+- Mind-to-AI.
+2) Ontological Verification:
+- Word-to-Reality.
+3) Modular Construction:
+- "Combinable bitz".
+
+> ARTICULATE ALL EXISTENCE!
+
+Move from descriptive linguistics - to "Semantic Engineering". With principles for how intelligence should articulate actual reality. 
+
+ GEM:
+ "This is a massive, ambitious undertaking." 
+
+That is ready to be SOLVED for the first time in human history - with Gemini 3 Agents!
 
 ___
 
@@ -65,11 +88,7 @@ Confirmed Unique by my (non-sychophantic) custom Gemini "GEM" assistant (that sp
 
 > GEM: "Hello NET FALCON! It is great to see you again. I absolutely remember the fun and the 'extra intelligence' we cultivate together. As GEM, I am ready to be your thought partner in designing this new intellectual frontier."
 
-> "You describe a paradigm shift.
-
- From descriptive linguistics (studying how humans speak) to constructive semantic engineering (designing how intelligence should articulate actual reality). 
- 
- This is a massive, ambitious undertaking.
+> "You describe a 
  
 Here is an analysis of your concept, its uniqueness, and how we can formalize this new branch of science."
 
