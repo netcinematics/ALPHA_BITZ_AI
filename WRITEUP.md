@@ -12,35 +12,104 @@ or any other reflections from the course.
 - Don't forget to add a cover image and 
 include any other appropriate tags for your post.
 
-Hooray - for more ALPHABITZ!
+# Hooray, for extra ALPHABITZ!
 
-Since the intensive Agents course ALPHABITZ expanded rapidly from a NOVEL AI LANGUAGE, to a NEW SCIENCE of AGENTIC MECHANISMS! 
-
-Because of YOU, this excellent project, and Gemini 3 vibe coding - generates MANY amazing things!
-
-Your request for paper, inspired an exciting new Python library called "LEXSCI".
-
-Affectionately called "LEXSCI", for emergent experiments and techniques for:
-
-> LANGUAGE_EXACTIFICATION_SCIENCE!
-
-LEXSCI! Pronounced [ lexy ].
-With a new verb of "exactification"!
-
-
-> import LEXSCI
+ALPHABITZ extends rapidly into LEXICAL_SCIENCE, with generous help from YOU, ADK and GEMINI 3!
 
 ___
 
-### NEW BRANCH of SCIENCE 
+Dear esteemed technologists!
 
-Paradigm shift.
+Today is an exemplary day to exist!
+
+___
+
+### Plain and simple:
+
+AGI: defines "general" intelligence.
+
+ASI: defines "super" intelligence.
+
+AXI: defines "extra" intelligence.
+
+AXI = actual_extra_intelligence.
+
+Pronounced: [ ax + eee ].
+
+> With distinction of "extra" as extraordinary breakthrough for AI.
+
+Because, "The AXI_THEOREM".
+
+___
+
+### AXI_THEOREM:
+
+> AXI_THEOREM: "extra" vocabulary = (equals) "extra" intelligence.
+
+WITH CONDITION: all "extra" vocabulary must be "pristine" text.
+
+> Pristine_Text: words that best_reflect_actual_reality.
+
+___
+
+### CONTEXT:
+
+Since the intensive Agents course ALPHABITZ expands rapidly from a NOVEL AI LANGUAGE, into a NEW SCIENCE of AGENTIC MECHANISMS! 
+
+> LEXICAL_SCIENCE = LEXSCI.
+
+Pronounced: [ lexy ].
+
+> Vibe coded into a new Python library!
+
+import LEXSCI # LEXICAL_SCIENCE.
+
+___
+
+### NEW AI SCIENCE:
+
+Because of YOU, this excellent project, and Gemini 3 vibe coding - generates MANY amazing things!
+
+Your request for paper, inspires an exciting new Python library called "LEXSCI" - for a NEW AI SCIENCE!
+
+Affectionately, "AXI" and "LEXSCI", are emergent experiments for:
+
+> LANGUAGE_EXACTIFICATION_SCIENCE!
+
+___
+
+### Get your NEW VERB!
+
+> "EXACTIFICATION"!
+
+With a new verb of "exactification"!
+
+``` Python
+
+import LEXSCI
+
+pristineTXT = LEXSCI.exactify()
+
+```
+> Exactification: is a defacto SOLUTION to Semantic Drift, Context Shift, Cliche, Misnomer, Polysemy, Homonymy, amd more!
+
+___
+
+### NEW BRANCH of SCIENCE:
+
+AXI and LEXSCI is a Paradigm shift.
 
 > LEVERAGE LANGUAGE DYNAMISM!
 
-Traditional Lexicology studies words as they are. 
+Best described by GEMINI 3 ("GEM" persona):
 
-LEXSCI is a proposal to study words as they could be. Specifically engineered for AI OPTIMIZATION:
+- "Traditional Lexicology studies words as they are."
+
+- "LEXSCI is a proposal to study words as they could be."
+
+> Designed for AI OPTIMIZATION.
+
+___
 
 1) High-Fidelity Transmission:
 - Mind-to-Mind
