@@ -12,7 +12,7 @@ or any other reflections from the course.
 - Don't forget to add a cover image and 
 include any other appropriate tags for your post.
 
-# Hooray, for extra ALPHABITZ!
+# Hooray, for "extra" ALPHABITZ!
 
 ALPHABITZ extends rapidly into LEXICAL_SCIENCE, with generous help from YOU, ADK and GEMINI 3!
 
@@ -20,7 +20,7 @@ ___
 
 Dear esteemed technologists!
 
-Today is an exemplary day to exist!
+> Today is an exemplary day to exist.
 
 ___
 
@@ -38,7 +38,7 @@ Pronounced: [ ax + eee ].
 
 > With distinction of "extra" as extraordinary breakthrough for AI.
 
-Because, "The AXI_THEOREM".
+Because, "AXI_THEOREM".
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 WITH CONDITION: all "extra" vocabulary must be "pristine" text.
 
-> Pristine_Text: words that best_reflect_actual_reality.
+> Pristine_Text = (equals) words that best_reflect_actual_reality.
 
 ___
 
@@ -56,17 +56,20 @@ ___
 
 Since the intensive Agents course ALPHABITZ expands rapidly from a NOVEL AI LANGUAGE, into a NEW SCIENCE of AGENTIC MECHANISMS! 
 
-> LEXICAL_SCIENCE = LEXSCI.
+> LEXICAL_SCIENCE = (equals) LEXSCI.
 
 Pronounced: [ lexy ].
 
 > Vibe coded into a new Python library!
 
+``` Python 
 import LEXSCI # LEXICAL_SCIENCE.
-
+```
 ___
 
 ### NEW AI SCIENCE:
+
+> ALPHABITZ = AXI + LEXSCI.
 
 Because of YOU, this excellent project, and Gemini 3 vibe coding - generates MANY amazing things!
 
@@ -84,6 +87,8 @@ ___
 
 With a new verb of "exactification"!
 
+> It's time to get "exactified!
+
 ``` Python
 
 import LEXSCI
@@ -91,7 +96,7 @@ import LEXSCI
 pristineTXT = LEXSCI.exactify()
 
 ```
-> Exactification: is a defacto SOLUTION to Semantic Drift, Context Shift, Cliche, Misnomer, Polysemy, Homonymy, amd more!
+> Exactification: is an "extra" SOLUTION to: Semantic Drift, Context Shift, Cliche, Misnomer, Polysemy, Homonymy, and (myriad) more!
 
 ___
 
@@ -101,15 +106,20 @@ AXI and LEXSCI is a Paradigm shift.
 
 > LEVERAGE LANGUAGE DYNAMISM!
 
+The principle of LLD for extra_LLM.
+
 Best described by GEMINI 3 ("GEM" persona):
 
 - "Traditional Lexicology studies words as they are."
 
 - "LEXSCI is a proposal to study words as they could be."
 
-> Designed for AI OPTIMIZATION.
+- Designed for AI OPTIMIZATION.
 
+> Reduce COST of COMPUTE.
 ___
+
+### Topics of FOCUS:
 
 1) High-Fidelity Transmission:
 - Mind-to-Mind
