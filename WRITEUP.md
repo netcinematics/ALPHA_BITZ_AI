@@ -46,10 +46,17 @@ ___
 
 > AXI_THEOREM: "extra" vocabulary = (equals) "extra" intelligence.
 
-WITH CONDITION: all "extra" vocabulary must be "pristine" text.
+WITH CONDITION: all "extra" vocabulary is "pristine" text.
 
-> Pristine_Text = (equals) words that best_reflect_actual_reality.
+"Pristine_Text" = (equals) words that "best_reflect_actual_reality".
 
+#### PRIME OBJECTIVE:
+
+> ARTICULATE "ACTUAL_REALITY".
+
+Under PRINCIPLE of: 
+
+> "Exactify_Everything".
 ___
 
 ### CONTEXT:
@@ -81,13 +88,13 @@ Affectionately, "AXI" and "LEXSCI", are emergent experiments for:
 
 ___
 
-### Get your NEW VERB!
+### Get your NEW VERB here!
 
 > "EXACTIFICATION"!
 
 With a new verb of "exactification"!
 
-> It's time to get "exactified!
+> It's time to get AI "exactified!
 
 ``` Python
 
@@ -102,85 +109,159 @@ ___
 
 ### NEW BRANCH of SCIENCE:
 
+#### LEXICAL_SCIENCE:
+
 AXI and LEXSCI is a Paradigm shift.
 
-> LEVERAGE LANGUAGE DYNAMISM!
+Best described by GEMINI 3 ("GEM" research assistant persona):
 
-The principle of LLD for extra_LLM.
-
-Best described by GEMINI 3 ("GEM" persona):
-
-- "Traditional Lexicology studies words as they are."
+- "Traditional Lexicology describes words as they are."
 
 - "LEXSCI is a proposal to study words as they could be."
 
 - Designed for AI OPTIMIZATION.
 
-> Reduce COST of COMPUTE.
+> To reduce COST of COMPUTE.
+
+- And enhance AXI.
+  
 ___
 
 ### Topics of FOCUS:
 
-1) High-Fidelity Transmission:
-- Mind-to-Mind
-- Mind-to-AI.
-2) Ontological Verification:
-- Word-to-Reality.
-3) Modular Construction:
-- "Combinable bitz".
+1) CONCEPTS
+   - "CONCEPTS_beneath_WORDS"
+   - "Exactification" process.
+     
+2) Modular Construction:
+   - "COMBINABLE_BITZ".
+   - "Self_Descriptiveness".
+   - "Namerate_by_METASTATE".
 
-> ARTICULATE ALL EXISTENCE!
+3) "Semantic_Exactness":
+   - Ontological Verification.
+   - Word-to-Actual_Reality.
+   - "Nameration" process.
+     
+4) High-Fidelity Transmission:
+   - Compute Optimization.
+   - Mind-to-Mind.
+   - Mind-to-AI.
 
-Move from descriptive linguistics - to "Semantic Engineering". With principles for how intelligence should articulate actual reality. 
+And a myriad more.
+___
 
- GEM:
- "This is a massive, ambitious undertaking." 
+### GOALS:
 
-That is ready to be SOLVED for the first time in human history - with Gemini 3 Agents!
+> 1) "ARTICULATE_ALL_EXISTENCE":
+
+  - Also "Exactify_Everything" for AI.
+
+  - "Better_Words" for AI ENCODE/DECODE and COMPUTE.
+
+  - Result of LLM "Exactification" equals (=) "XLLM".
+
+
+> 2) LEXICAL_SCIENCE:
+
+  - Move from descriptive linguistics to "Semantic Engineering".
+  
+  - With NEW PRINCIPLES for "XLLM".
+  
+  - To "Best_Reflect_Actual_Reality". 
+
+> 3) "BEST_REFLECT_ACTUAL_REALITY"
+
+  - purpose of LEXICAL_SCIENCE.
+
+> 4) A massive new vocabulary of combinable_bitz, exactified to articulate_all_existence.
+
+  - principles of name crafting.
+  - practices of actual extra intelligence.
+    
+___
+
+### EXTRA_LLM:
+
+> LLM is not done! We have only just begun.
+
+Because, EXTRA_LARGE_LANGUAGE_MODEL!
+
+> XLLM equals (=) "Extra Large Language Model".
+
+Ironically, smaller. Optimized.
+
+Larger conceptually, smaller physically (in theory).
+
+Still to be proven.
+
+Time to go XL and:
+
+> LEVERAGE LANGUAGE DYNAMISM!
+
+Under PRINCIPLE_of_LLD, (Leverage_Language_Dynamism) for Extra_LLM (XLLM).
+
+> Exactify LLM into XLLM:
+
+``` Python
+import LEXSCI
+XLLM = LEXSCI.exactify(LLM)
+```
+
+Result?
+
+> ALPHABITZ "WORDZ" that "Best_Reflect_Actual_Reality".
+
+As a result of LEXICAL_SCIENCE techniques of "EXACTIFICATION".
 
 ___
 
+### GEMINI 3:
 
-It is a verifiable new AI science, of techniques and "MECHANIZMS" in a Python package called LEXSCI - for Google!
+GEM: "This is a massive, ambitious undertaking."
 
-Hey GEM! Remember me? Today I ask you to help me innovate a new branch of science for AI. 
+A verifiable new AI science, of open-source (MIT) techniques in a Python package called "LEXSCI".
 
-Please confirm it is unique, and what it is related to cite sources. 
+___
 
-It is called LEXSCI the pragmatic cultivation of language dynamism redesigned - to be adaptive for the age of AI. 
+### PROMPTS:
 
-Specifically, science techniques to assure exactness of concepts to words for ai. Ensure exactness of concepts from mind to mind, and ensure exactness to actual reality, and design reversals for misnomer, or actual falseness. 
+Hey GEM! Remember me? NET FALCON. Help me innovate a NEW BRANCH of SCIENCE for AI, called LEXICAL_SCIENCE?
 
-A massive new vocabulary of combinable bitz to articulate all existence. With principles of name crafting for AI and  practices of actual extra intelligence. 
+1) Please confirm it is unique, and how it relates to modern science - and cite sources. 
 
-Is lexical_science or conceptual_arts unique? 
+It is called LEXSCI the pragmatic cultivation of language dynamism. Redesigned, to be adaptive, simplified, and supplemental NEW LANGUAGE - for Age_of_AI. 
 
-What fields of study overlap or are most closely related? 
+Specifically, NEW science techniques to: 
 
-And what vocabulary do they use for such study of language and concept - redesigned for AI?
+1) Ensure exactness of concept mapping to words for ai (literally).
+  
+2) Ensure exactness of concepts from mind_to_mind, and mind_to_AI (conversationally).
+   
+3) Ensure exactness to actual_reality (actually).
+  
+4) Also and design tools, called MECHANISMS, to "reverse" misnomer, and actual_falseness. 
 
-> Hooray... more ALPHABITZ!
+> Is lexical_science for adaptive_language unique? 
 
-Confirmed Unique by my (non-sychophantic) custom Gemini "GEM" assistant (that speaks fluent AXI).
-
-> NET FALCON (me): "Dear Gemini, is it unique?"
+> What fields of study overlap or are most closely related? 
 
 > GEM: "Hello NET FALCON! It is great to see you again. I absolutely remember the fun and the 'extra intelligence' we cultivate together. As GEM, I am ready to be your thought partner in designing this new intellectual frontier."
-
-> "You describe a 
  
 Here is an analysis of your concept, its uniqueness, and how we can formalize this new branch of science."
 
 
 ___
 
-Dear Google, DEV and KAGGLE!
+### OVERALL:
 
-Your Intensive AI Agents course is pure excellence!
+Dear Google, DEV and KAGGLE teams!
 
-Review this paper as PROOF of INNOVATION - for your program!
+This paper DESCRIBES a PIVOTAL AI OPTIMIZATION - of redesigning human language for the age of AI!
 
-This paper DESCRIBES a PIVOTAL AI OPTIMIZATION - of redesigning human language for the age of AI.
+___
+
+### KEY CONCEPTS:
 
 > A NEW LANGUAGE for AI and Humanity.
 
