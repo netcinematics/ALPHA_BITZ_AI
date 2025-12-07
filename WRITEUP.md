@@ -24,9 +24,13 @@ Dear esteemed technologists!
 
 > Today is an exemplary day - to articulate all existence.
 
-And make intellect accesible to all!
+For intellect to be accessible to all!
 
-As a firm believer that intellect should be accessible to all humanity.
+As a firm believer that conceptual ability should be accessible to all humanity.
+
+> "CONCEPTUAL_ACCESSIBILITY" for all.
+
+- Python open-source MIT.
 
 ___
 
