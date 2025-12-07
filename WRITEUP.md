@@ -14,9 +14,9 @@ include any other appropriate tags for your post.
 
 # Hooray "extra" ALPHABITZ!
 
-ALPHABITZ extends rapidly into LEXICAL_SCIENCE.
+ALPHABITZ extends rapidly into LEXICAL_SCIENCE, for extra conceptual ACCESSIBILITY!
 
-> Optimize INPUT text with GEMINI AGENTS and MECHANISMS to generate actual "EXTRA" intelligence.
+> Optimize INPUT text with GEMINI AGENTS and MECHANISMS for accessible expression of human mentality - via generation of actual "EXTRA" intelligence.
 
 ___
 
@@ -24,19 +24,27 @@ Dear esteemed technologists!
 
 > Today is an exemplary day - to articulate all existence.
 
+And make intellect accesible to all!
+
+As a firm believer that intellect should be accessible to all humanity.
+
 ___
 
-### Plain and simple:
+### PLAIN and SIMPLE:
 
-The following is a profound LINGUISTICS JOURNEY. 
+> This paper describes the exciting journey through alignment and accessibility. 
 
-EQUIVALENT to the innovation of ALPHABETICS and ACRONYMS - with similar tremendous BENEFITS for humanity. 
+EQUIVALENT to the esteemed innovation of ALPHABETICS and ACRONYMS - for humanity. 
 
-> Sophisticated Linguistic Enhancement Techniques, called "ENHANCED_SYNTAX".
+This paper describes similar accessible BENEFITS for humanity - through a NOVEL LINGUISTIC SCIENCE. 
+
+> Enabled by GEMINI and Python on generativeai ADK!
+
+Sophisticated Linguistic Enhancement Techniques, called "ENHANCED_SYNTAX".
 
 > Human language redesigned for the Artificial Intelligence Age.
 
-> A recipe, that results in "Generative_Intelligence" practices.
+A recipe, that results in "Generative_Intelligence" practices.
 
 > Intelligence tools "extended" beyond industrial age into "AGE_of_AI".
 
@@ -107,7 +115,9 @@ ___
 
 ### CONTEXT:
 
-Since the Intensive Agents course ALPHABITZ expands rapidly from a NOVEL AI LANGUAGE, into a NEW SCIENCE of AGENTIC MECHANISMS! 
+Since the Intensive AI Agents Course - with Google. 
+
+ALPHABITZ expands rapidly from a NOVEL AI LANGUAGE, into a NEW SCIENCE of AGENTIC MECHANISMS! 
 
 Des
 
@@ -115,7 +125,9 @@ Des
 
 Pronounced: [ lexy ].
 
-> Vibe coded into a new Python library!
+> "FLOW_CODED", as a new Python library!
+
+Called LEXSCI, as a library of lexical science mechanisms - for various forms of enhanced_syntax, and AXI.
 
 ``` Python 
 import LEXSCI # LEXICAL_SCIENCE.
@@ -126,23 +138,22 @@ ___
 
 > ALPHABITZ = AXI + LEXSCI.
 
-Because of YOU, this excellent project, and Gemini 3 vibe coding - generates MANY amazing things!
-
-Your request for paper, inspires an exciting new Python library called "LEXSCI" - for a NEW AI SCIENCE!
+This paper is inspired by GOOGLE and KAGGLE. Where Gemini 3 flow_coding - generates MANY amazing things!
 
 Affectionately, "AXI" and "LEXSCI", are emergent experiments for:
 
 > LANGUAGE_EXACTIFICATION_SCIENCE!
 
+LEXSCI!
 ___
 
-### Get your NEW VERB here!
+### Gain a NEW VERB!
 
 > "EXACTIFICATION"!
 
-With a new verb of "exactification"!
+The extension of new verbs to human vocabulary, is highly underrated. Because, each one (where accurate), represents a METASTATE (over mechanism) - of "Actual_Extra_Ability".
 
-> It's time to get AI "exactified!
+> For AI, it is time to get exactified!
 
 ``` Python
 
@@ -151,7 +162,8 @@ import LEXSCI
 pristineTXT = LEXSCI.exactify()
 
 ```
-> Exactification: is an "extra" SOLUTION to: Semantic Drift, Context Shift, Cliche, Misnomer, Polysemy, Homonymy, and (myriad) more!
+
+> Exactification: is not super, not general - but "extra" SOLUTION to: Semantic Drift, Context Shift, Cliche, Misnomer, Polysemy, Homonymy, Conjugation flaw, and (myriad) more language fragilities, or incompleteness.
 
 ___
 
@@ -173,11 +185,13 @@ Best described by GEMINI 3 ("GEM" research assistant persona):
 
 - And enhance AXI.
   
+- For both AI and humans.
+  
 ___
 
 ### Topics of FOCUS:
 
-1) CONCEPTS
+1) EXTRA_CONCEPTS:
    - "CONCEPTS_beneath_WORDS"
    - "Exactification" process.
      
@@ -186,15 +200,20 @@ ___
    - "Self_Descriptiveness".
    - "Namerate_by_METASTATE".
 
-3) "Semantic_Exactness":
-   - Ontological Verification.
-   - Word-to-Actual_Reality.
-   - "Nameration" process.
+3) "METASTATE_above_CONCEPTS":
+   - Exactify all METASTATE.
+   - For AI INFERENCE.
+   - PristineTXT.
      
-4) High-Fidelity Transmission:
+4)  "Semantic_Exactness":
+   - Ontological Verification.
+   - Actual_Reality.
+   - "AUTO_NAMERATION" process.
+     
+5) High-Fidelity Transmission:
    - Compute Optimization.
-   - Mind-to-Mind.
-   - Mind-to-AI.
+   - Mind_to_Mind.
+   - Mind_to_AI.
 
 And a myriad more.
 ___
@@ -212,6 +231,12 @@ ___
 
 > 2) LEXICAL_SCIENCE:
 
+  - "SIMPLE_WORDS"
+    
+  - Simplification of human language.
+    
+  - Symbiotic with AI.
+
   - Move from descriptive linguistics to "Semantic Engineering".
   
   - With NEW PRINCIPLES for "XLLM".
@@ -222,10 +247,13 @@ ___
 
   - purpose of LEXICAL_SCIENCE.
 
-> 4) A massive new vocabulary of combinable_bitz, exactified to articulate_all_existence.
+> 4) "COMBINABLE_BITZ":
+  - A massive new vocabulary for human and AI.
+  - Of ATOMIC_TOKENS, or combinable_bitz.
+  - Exactified to auro articulate_all_existence, upob reflection.
 
   - principles of name crafting.
-  - practices of actual extra intelligence.
+  - practices of actual extra intelligence practices.
     
 ___
 
@@ -235,32 +263,45 @@ ___
 
 Because, EXTRA_LARGE_LANGUAGE_MODEL!
 
-> XLLM equals (=) "Extra Large Language Model".
+> XLLM (=) equals "Extra Large Language Model".
 
-Ironically, smaller. Optimized.
+Ironically, smaller. Optimized. Supplemental. But extended and extra, therefore - "EXTRA_LARGE_LANGUAGE_MODEL".
 
-Larger conceptually, smaller physically (in theory).
+Larger conceptually, smaller physically.
 
-Still to be proven.
+> Experiment in progress here.
 
 Time to go XL and:
 
 > LEVERAGE LANGUAGE DYNAMISM!
 
-Under PRINCIPLE_of_LLD, (Leverage_Language_Dynamism) for Extra_LLM (XLLM).
+___
 
-> Exactify LLM into XLLM:
+### Observe LANGUAGE DYNAMISM:
+
+> Language is Naturally Dynamic. It must extend to reflect Actual_Reality, else remain static and actually_false.
+
+As PRINCIPLE_of_LLD, (Leverage_Language_Dynamism) for "Extra_Large_Language_Model" (XLLM). 
+> "AUTO_NAMERATION" (=) is a NEW SCIENCE within "NAMEROLOGY" - to automatically adapt, language to "best_reflect_actuality", for AI, over eons.
+
+#### Exactify LLM into XLLM:
 
 ``` Python
 import LEXSCI
 XLLM = LEXSCI.exactify(LLM)
 ```
 
-Result?
+___
+
+### RESULTS:
 
 > ALPHABITZ "WORDZ" that "Best_Reflect_Actual_Reality".
 
-As a result of LEXICAL_SCIENCE techniques of "EXACTIFICATION".
+In a new ENHANCED_SYNTAX collection called "aWORDZa".
+
+> Syntax and vocabulary MARKDOWN, for GEMINI to instantly speak a new language.
+
+For ACCESSIBILITY to vast expanse of extra descriptive vocabulary, and "CONCEPTS_not_yet_ARTICULATED" into words.
 
 ___
 
