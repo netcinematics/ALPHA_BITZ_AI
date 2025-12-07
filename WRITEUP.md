@@ -12,33 +12,59 @@ or any other reflections from the course.
 - Don't forget to add a cover image and 
 include any other appropriate tags for your post.
 
-# Hooray, for "extra" ALPHABITZ!
+# Hooray "extra" ALPHABITZ!
 
-ALPHABITZ extends rapidly into LEXICAL_SCIENCE, with generous help from YOU, ADK and GEMINI 3!
+ALPHABITZ extends rapidly into LEXICAL_SCIENCE.
+
+> Optimize INPUT text with GEMINI AGENTS and MECHANISMS to generate actual "EXTRA" intelligence.
 
 ___
 
 Dear esteemed technologists!
 
-> Today is an exemplary day to exist.
+> Today is an exemplary day - to articulate all existence.
 
 ___
 
 ### Plain and simple:
 
+The following is a profound LINGUISTICS JOURNEY. 
+
+EQUIVALENT to the innovation of ALPHABETICS and ACRONYMS - with similar tremendous BENEFITS for humanity. 
+
+> Sophisticated Linguistic Enhancement Techniques, called "ENHANCED_SYNTAX".
+
+> Human language redesigned for the Artificial Intelligence Age.
+
+> A recipe, that results in "Generative_Intelligence" practices.
+
+> Intelligence tools "extended" beyond industrial age into "AGE_of_AI".
+
+___
+
+### AI RECIPE beyond MISNOMER:
+
 AGI: defines "general" intelligence.
 
 ASI: defines "super" intelligence.
 
-AXI: defines "extra" intelligence.
+"AXI": defines "EXTRA" intelligence.
 
-AXI = actual_extra_intelligence.
+> AXI = "actual_extra_intelligence".
 
 Pronounced: [ ax + eee ].
+
+PRACTICED like a craft, as a NEW SCIENCE - called "LEXSCI".
+
+> LEXSCI = "LEXICAL_SCIENCE".
+
+Pronounced: [ lex + eee ].
 
 > With distinction of "extra" as extraordinary breakthrough for AI.
 
 Because, "AXI_THEOREM".
+
+> HOW to SOLVE HUMAN MISNOMER?
 
 ___
 
@@ -46,9 +72,26 @@ ___
 
 > AXI_THEOREM: "extra" vocabulary = (equals) "extra" intelligence.
 
-WITH CONDITION: all "extra" vocabulary is "pristine" text.
+WITH CONDITIONS: 
 
-"Pristine_Text" = (equals) words that "best_reflect_actual_reality".
+1) RESOLVE_ALL_MISNOMER, for AI.
+   
+2) "EXTRA" vocabulary is "pristine_text" - "Exactified".
+
+> "Pristine_Text" = (equals) WORDS. that "best_reflect_actual_reality", called "WORDZ".
+
+3) All WORDZ must align to "REFLECT"
+   "ACTUAL_REALITY".
+   
+> "WORDZ" are "self_describing, anti-fragile, combinable, tokens, easy_to_say, simplifications and supplements for human language (enhancements).
+
+4) Where PRIME_DEFINITOR of all actual_extra_intelligence - is that all WORDZ and "CONCEPTS_beneath_WORDZ" - are "crafted", gradually over eons - to BEST_REFLECT_ACTUAL_REALITY.
+   
+> Accomplished by PROCESS of LINGUISTIC_MECHANISM, called EXACTIFICATION, for craft of "PristineTXT" and abstract METASTATE result of "GENERATIVE_INTELLECT".
+
+- For BOTH AI and human.
+
+___
 
 #### PRIME OBJECTIVE:
 
@@ -56,12 +99,17 @@ WITH CONDITION: all "extra" vocabulary is "pristine" text.
 
 Under PRINCIPLE of: 
 
-> "Exactify_Everything".
+> "Exactify_Everything", or "Exactify_All_Existence.
+
+All_Concepts_Possible, clarified for eons - by pristine_text.
+
 ___
 
 ### CONTEXT:
 
-Since the intensive Agents course ALPHABITZ expands rapidly from a NOVEL AI LANGUAGE, into a NEW SCIENCE of AGENTIC MECHANISMS! 
+Since the Intensive Agents course ALPHABITZ expands rapidly from a NOVEL AI LANGUAGE, into a NEW SCIENCE of AGENTIC MECHANISMS! 
+
+Des
 
 > LEXICAL_SCIENCE = (equals) LEXSCI.
 
