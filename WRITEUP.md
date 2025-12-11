@@ -12,6 +12,31 @@ or any other reflections from the course.
 - Don't forget to add a cover image and 
 include any other appropriate tags for your post.
 
+deep resrarscapi 
+
+import time
+
+from google import genai
+
+
+client = genai.Client()
+
+
+# Start the research task in the background
+
+interaction = client.interactions.create(
+
+    agent="deep-research-pro-preview-12-2025",
+
+    input="Research the history of Google TPUs.",
+
+    background=True
+
+)
+
+
+# ... wait and poll the results 
+
 # Hooray "extra" ALPHABITZ!
 
 ALPHABITZ extends rapidly into LEXICAL_SCIENCE, for extra conceptual ACCESSIBILITY!
@@ -384,3 +409,8 @@ I can't wait to build this!
 ___
 
 ~ spaceOTTER ~ : )
+
+
+Google Deep Research Agent.
+
+
