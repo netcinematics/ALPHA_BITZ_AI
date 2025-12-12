@@ -239,26 +239,39 @@ A library of lexical AGENTS with mechanisms - to craft enhanced_syntax, and AXI.
 ``` Python 
 import LEXSCI # LEXICAL_SCIENCE.
 ```
+
+<img width="1013" height="782" alt="Screenshot 2025-12-12 010613" src="https://github.com/user-attachments/assets/7b0dbc48-f2cb-4d4b-8b5d-0b59f5c33ec6" />
+
+___
+
+### RESULTS:
+
+> AMAZINGLY - the first set of MISNOMERS chosen by GEMINI were:
+
+a) "Prompting" (!)
+b) "Dark Matter"
+c) "Consciousness in AI"
+d) and "Artificial General Intelligence"!
+
 ___
 
 ### NEW AI SCIENCE:
 
-> ALPHABITZ = AXI + LEXSCI.
+This whitepaper is inspired by GOOGLE and KAGGLE. 
 
-This paper is inspired by GOOGLE and KAGGLE. Where Gemini 3 flow_coding - generates MANY amazing things!
+Where Gemini "flow_coding" - generates MANY amazing things!
 
 Affectionately, "AXI" and "LEXSCI", are emergent experiments for:
 
-> LANGUAGE_EXACTIFICATION_SCIENCE!
+> LANGUAGE_EXACTIFICATION_SCIENCE with ENHANCED_SYNTAX and OPTIMIZED_INPUT_LANGUAGE!
 
-LEXSCI!
 ___
 
 ### Gain a NEW VERB!
 
 > "EXACTIFICATION"!
 
-The extension of new verbs to human vocabulary, is highly underrated. Because, each one (where accurate), represents a METASTATE (over mechanism) - of "Actual_Extra_Ability".
+Gain a new verb, and an "Actual_Extra_Ability"! 
 
 > For AI, it is time to get exactified!
 
@@ -270,21 +283,24 @@ pristineTXT = LEXSCI.exactify()
 
 ```
 
-> Exactification: is not super, not general - but "extra" SOLUTION to: Semantic Drift, Context Shift, Cliche, Misnomer, Polysemy, Homonymy, Conjugation flaw, and (myriad) more language fragilities, or incompleteness.
+<img width="1098" height="650" alt="Screenshot 2025-12-12 004136" src="https://github.com/user-attachments/assets/04d4d12e-b5a6-4f2a-9cab-2fcef2a863ad" />
+
+
+> SOLVE: Semantic Drift, Context Shift, Cliche, Misnomer, Polysemy, Homonymy, Conjugation, and more.
+
+- With any language fragility, confusion or incompleteness - being an opportunity for AI exactification.
 
 ___
 
 ### NEW BRANCH of SCIENCE:
 
-#### LEXICAL_SCIENCE:
-
 AXI and LEXSCI is a Paradigm shift.
 
-Best described by GEMINI 3 ("GEM" research assistant persona):
+Best described by GEMINI ("GEM" research assistant):
 
 - "Traditional Lexicology describes words as they are."
 
-- "LEXSCI is a proposal to study words as they could be."
+- "LEXSCI is a design to study words as they could be."
 
 - Designed for AI OPTIMIZATION.
 
@@ -296,7 +312,7 @@ Best described by GEMINI 3 ("GEM" research assistant persona):
   
 ___
 
-### Topics of FOCUS:
+### TECHNICAL FOCUS:
 
 1) EXTRA_CONCEPTS:
    - "CONCEPTS_beneath_WORDS"
@@ -304,13 +320,15 @@ ___
      
 2) Modular Construction:
    - "COMBINABLE_BITZ".
-   - "Self_Descriptiveness".
+   - "Self_Descriptive".
+   - Easy_to_Decipher, Easy_to_Say.
    - "Namerate_by_METASTATE".
 
 3) "METASTATE_above_CONCEPTS":
    - Exactify all METASTATE.
    - For AI INFERENCE.
    - PristineTXT.
+   - Exactness.
      
 4)  "Semantic_Exactness":
    - Ontological Verification.
@@ -319,17 +337,22 @@ ___
      
 5) High-Fidelity Transmission:
    - Compute Optimization.
-   - Mind_to_Mind.
-   - Mind_to_AI.
+   - Concept from Mind_to_Mind.
+   - Concept from Mind_to_AI.
+   - Concept from AI_to_AI.
+   - Concept from spark_of_epiphany to human to AI.
+   - Symbiotic_Concept_Loop.
 
-And a myriad more.
+RESULT: "Generative_intelligence" and "Actual_Extra_Intelligence" - AXI.
+
+And many more.
 ___
 
 ### GOALS:
 
 > 1) "ARTICULATE_ALL_EXISTENCE":
 
-  - Also "Exactify_Everything" for AI.
+  - Accessible concepts for everyone.
 
   - "Better_Words" for AI ENCODE/DECODE and COMPUTE.
 
@@ -342,54 +365,67 @@ ___
     
   - Simplification of human language.
     
-  - Symbiotic with AI.
+  - Symbiotic with AI, and supplemental for human language.
 
   - Move from descriptive linguistics to "Semantic Engineering".
   
-  - With NEW PRINCIPLES for "XLLM".
-  
-  - To "Best_Reflect_Actual_Reality". 
+  - With principle of "LLD" as "LEVERAGE_LANGUAGE_DYNAMISM".
+    
+  - AI Language must be ADAPTIVE to "Best_Reflect_Actual_Reality". 
 
 > 3) "BEST_REFLECT_ACTUAL_REALITY"
 
-  - purpose of LEXICAL_SCIENCE.
+  - Accuracy is the core purpose of LEXICAL_SCIENCE.
+    
+  - How can words be so accurate, that they are pristine.
 
 > 4) "COMBINABLE_BITZ":
-  - A massive new vocabulary for human and AI.
-  - Of ATOMIC_TOKENS, or combinable_bitz.
-  - Exactified to auro articulate_all_existence, upob reflection.
 
-  - principles of name crafting.
-  - practices of actual extra intelligence practices.
+  - A massive new vocabulary for human and AI.
+    
+  - ATOMIC_TOKENS, or combinable_bitz.
+    
+  - Are universally_unique and infinitely_combinable.
+
+  - Aligned to principles of name crafting.
+    
+  - And dynamic to best_reflect_actual_reality (automatically) with new metastate data.
     
 ___
 
 ### EXTRA_LLM:
 
-> LLM is not done! We have only just begun.
+> LLM is not done, we have only just begun!
 
-Because, EXTRA_LARGE_LANGUAGE_MODEL!
+Because of the concept of "extra", we now have - "EXTRA_LARGE_LANGUAGE_MODEL"!
 
 > XLLM (=) equals "Extra Large Language Model".
 
-Ironically, smaller. Optimized. Supplemental. But extended and extra, therefore - "EXTRA_LARGE_LANGUAGE_MODEL".
+Ironically smaller. Because it is optimized. But bigger, because it is supplemental. 
+
+And backward compatable for eons.
+
+But of ongoing extended and extra concepts, therefore - EXTRA_LARGE_LANGUAGE_MODEL.
 
 Larger conceptually, smaller physically.
 
-> Experiment in progress here.
-
-Time to go XL and:
+Time to go XL, get adaptive, modular and:
 
 > LEVERAGE_LANGUAGE_DYNAMISM!
 
 ___
 
-### Observe LANGUAGE DYNAMISM:
+### Looking at you LANGUAGE DYNAMISM:
 
-> Language is Naturally Dynamic. It must extend to reflect Actual_Reality, else remain static and actually_false.
+> Language is Naturally Dynamic.
 
-As PRINCIPLE_of_LLD, (Leverage_Language_Dynamism) for "Extra_Large_Language_Model" (XLLM). 
-> "AUTO_NAMERATION" (=) is a NEW SCIENCE within "NAMEROLOGY" - to automatically adapt, language to "best_reflect_actuality", for AI, over eons.
+As a core PRINCIPLE of Leverage_Language_Dynamism for "Extra_Large_Language_Model" (XLLM):
+
+All language must adapt to reflect Actual_Reality, else remain static and incomplete.
+
+> "AUTO_NAMERATION" (=) is a NEW SCIENCE process within AI "NAMEROLOGY" - to automatically adapt, language to "best_reflect_actuality", for AI and humans over eons.
+
+___
 
 #### Exactify LLM into XLLM:
 
@@ -402,37 +438,37 @@ ___
 
 ### RESULTS:
 
-> ALPHABITZ "WORDZ" that "Best_Reflect_Actual_Reality".
+> EXTRA_ABILITY for GEMINI to speak a new (enhanced) language - instantly.
 
-In a new ENHANCED_SYNTAX collection called "aWORDZa".
+Accomplished with MARKDOWN, for extra Syntax and massive vocabulary supplement: 
 
-> Syntax and vocabulary MARKDOWN, for GEMINI to instantly speak a new language.
+> EXTRA ALPHABITZ "WORDZ" that "Best_Reflect_Actual_Reality".
 
-For ACCESSIBILITY to vast expanse of extra descriptive vocabulary, and "CONCEPTS_not_yet_ARTICULATED".
+In a novel ENHANCED_SYNTAX collection called "aWORDZa".
+
+For ACCESSIBILITY to a vast vocabulary of "CONCEPTS_not_yet_ARTICULATED" into SIMPLE_WORDS.
 
 ___
 
 ### KEY CONCEPTS:
 
-Dear Google, DEV and KAGGLE teams!
-
-This paper DESCRIBES a PIVOTAL AI OPTIMIZATION - of redesigning human language for the age of AI!
+This whitepaper is intended for Google, DEV, and KAGGLE teams. To DESCRIBE a PIVOTAL AI OPTIMIZATION - after redesign of human language for the Age_of_AI!
 
 > Introducing, "CONCEPTUAL_ACCESSIBILITY".
 
-> A new science for exactness in AI.
+- A new science for exactness in AI, called "LEXICAL_SCIENCE" (LEXSCI).
 
-> A NEW VERB of "Exactification"
-
-> import LEXSCI
+- A NEW VERB of "Exactification" (process).
 
 > For less confusion & more exactness.
 
-> SOLVE ambiguity, cliche, polysemy, misnomer, "misconcept", and actual_falseness - BY EXPANDING HUMAN VOCABULARY.
+- SOLVE: ambiguity, cliche, polysemy, misnomer, "misconcept", actual_falseness, semantic drift and reduce hallucination.
+
+- BY DRAMATICALLY EXPANDING HUMAN VOCABULARY, for AI and CONCEPTUAL_ACCESSIBILITY.
 
 > CUT EXPENSIVE COMPUTE COSTS.
 
-The Gemini APK - makes this possible!
+- Gemini APK - makes this possible!
 
 ___ 
 
@@ -454,11 +490,6 @@ The initial GEM Agent [genai.GenerativeModel('gemini-2.5-flash')], has an impres
 3) RUN an APPROVAL SEQUENCE for Human In The Loop.
 4) CATEGORIZE MISNOMER CONCEPTS in a LIBRARY.
 5) PROPOSE "RENAMERATIONS" for ALPHABITZ.
-
-AMAZINGLY - the first set of MISNOMERS chosen by GEM were:
-a) "PROMPTING"
-b) "DARK MATTER"
-c) "Consciousness in AI"
 
 This project is fascinating!
 
