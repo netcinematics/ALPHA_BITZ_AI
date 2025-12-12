@@ -12,30 +12,7 @@ or any other reflections from the course.
 - Don't forget to add a cover image and 
 include any other appropriate tags for your post.
 
-deep resrarscapi 
 
-import time
-
-from google import genai
-
-
-client = genai.Client()
-
-
-# Start the research task in the background
-
-interaction = client.interactions.create(
-
-    agent="deep-research-pro-preview-12-2025",
-
-    input="Research the history of Google TPUs.",
-
-    background=True
-
-)
-
-
-# ... wait and poll the results 
 
 # Hooray "extra" ALPHABITZ!
 
@@ -476,14 +453,11 @@ ___
 
 Actual working code in Python on GitHub at this link:
 
-> CODE: https://github.com/netcinematics/LEXSCI_AI
+> CODE: https://github.com/ANTIGRAVITY_AI/ALPHABITZ_AI_V2.
 
-### RELEVANCE:
+___
 
-This is exceptional!
-The initial GEM Agent [genai.GenerativeModel('gemini-2.5-flash')], has an impressive initial feature set!
-
-#### LEXSCI initial FEATURE SET:
+### Initial FEATURE SET:
 
 1) CAN RUN AUTONOMOUSLY EVERYDAY at NOON (cron).
 2) SEARCH FOR MISNOMER in common English (among topic sets).
@@ -503,7 +477,7 @@ The most IMPORTANT thing I learn is:
 
 2) And Gemini 3 APK Agents - is an excellent way to built it!
 
-3) "FLOW_CODE" - version 1 of LEXSCI, is already generated in Google ANTIGRAVITY!
+3) "FLOW_CODE" - LEXSCI is already generated in Google ANTIGRAVITY!
 
 Gemini will do much better to generate the mechanisms than a human.
 
@@ -518,4 +492,28 @@ ___
 
 Google Deep Research Agent.
 
+deep resrarscapi 
+
+import time
+
+from google import genai
+
+
+client = genai.Client()
+
+
+# Start the research task in the background
+
+interaction = client.interactions.create(
+
+    agent="deep-research-pro-preview-12-2025",
+
+    input="Research the history of Google TPUs.",
+
+    background=True
+
+)
+
+
+# ... wait and poll the results 
 
