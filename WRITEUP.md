@@ -55,35 +55,67 @@ Dear esteemed technologists!
 
 For intellect to be accessible to all!
 
-As a firm believer that conceptual ability should be accessible to all humanity.
+INTRODUCING: "CONCEPTUAL_ACCESSIBILTY".
 
-> "CONCEPTUAL_ACCESSIBILITY" for all.
+As a firm believer that knowledge should be accessible to all humanity.
 
-- Python open-source MIT.
+> "CONCEPTUAL_ACCESSIBILITY" looks at ambiguity, cliche, Semantic Drift, misnomers and SOLVES each with MORE EXACT WORDS - called ALPHABITZ.
+
+- For LESS HALLUCINATION, and REDUCED COMPUTE COST!
+
+- Now in Python, open-source MIT - ALPHABITZ!
+
+- Previously in TensorFlow, JavaScript, and C++.
 
 ___
 
 ### PLAIN and SIMPLE:
 
-> This paper describes the exciting journey through alignment and accessibility. 
+> This whitepaper describes the exciting journey through alignment and accessibility. 
 
-EQUIVALENT to the esteemed innovation of ALPHABETICS and ACRONYMS - for humanity. 
+- It LEVERAGES the natural DYNAMISM of LANGUAGE with NEOLOGISMS.
 
-This paper describes similar accessible BENEFITS for humanity - through a NOVEL LINGUISTIC SCIENCE. 
+- It creates "BITZ" of "WORDZ", infinitely combinable - to BEST_REFLECT_ACTUAL_REALITY.
 
-> Enabled by GEMINI and Python on generativeai ADK!
-
-Sophisticated Linguistic Enhancement Techniques, called "ENHANCED_SYNTAX".
-
-> Human language redesigned for the Artificial Intelligence Age.
-
-A recipe, that results in "Generative_Intelligence" practices.
-
-> Intelligence tools "extended" beyond industrial age into "AGE_of_AI".
+- It "REDESIGNS HUMAN LANGUAGE for the AGE_of_AI" - with core PRINCIPLES.
 
 ___
 
-### AI RECIPE beyond MISNOMER:
+### BRIEF HISTORY:
+
+ALPHABITZ is EQUIVALENT to the innovation of ALPHABETICS.
+
+It is a new DIGITAL_LANGUAGE for AI and HUMANS - with a significant optimization of "EXACTNESS".
+
+Also, consider ACRONYMS. They have a distinct language pattern (1st letter of words, in uppercase).
+
+ALPHABITZ "extends" on that language pattern. For an impressive "extra_abilities" in AI text.
+
+But also ALPHABITZ has a principle of "SIMPLE_WORDS". 
+
+> ALPHABITZ is a massive language simplification!
+
+Specifically, "packing definitive metastate into single characters".
+
+This paper describes BENEFITS for humanity - through simplicity, accessibility and a NEW LINGUISTIC SCIENCE - called "LEXSCI" (LEXICAL_SCIENCE). For sophisticated Linguistic Enhancement Techniques - called "ENHANCED_SYNTAX".
+
+> Enabled by GEMINI and Python on generativeai ADK!
+
+___
+
+### OVERVIEW:
+
+> Human language redesign for the Artificial Intelligence Age.
+
+A recipe, that results in optimization for AI, and intelligence tools, for CONCEPTUAL_ACCESSIBILITY.
+
+Which "EXTEND" far beyond industrial age into "AGE_of_AI" - as "EXTRA".
+
+___
+
+### AI RECIPE EXAMPLE:
+
+Consider the challenge of AMBIGUOUS MISNOMER CONCEPTS.
 
 AGI: defines "general" intelligence.
 
@@ -91,46 +123,94 @@ ASI: defines "super" intelligence.
 
 "AXI": defines "EXTRA" intelligence.
 
-> AXI = "actual_extra_intelligence".
+> AXI (=) equals "actual_extra_intelligence".
 
 Pronounced: [ ax + eee ].
 
-PRACTICED like a craft, as a NEW SCIENCE - called "LEXSCI".
+PRACTICED like a craft, as a NEW SCIENCE, with principles to align AI toward "generative_intellect".
 
 > LEXSCI = "LEXICAL_SCIENCE".
 
 Pronounced: [ lex + eee ].
 
-> With distinction of "extra" as extraordinary breakthrough for AI.
+> LEXSCI is an "extra" as extraordinary breakthrough for AI.
+
+It does not describe language, like lexicology. It redesigns language, as an optimized AI input and for human comprehension and simple_word accessibility.
+
+> No more obfuscated jargon, naming science after cats, or training AI with junk food!
+
+With ALPHABITZ: training data for AI is no longer finite - it is infinite.
+
+As one of the principles for ALPHABITZ - is to "EXACTIFY_EVERYTHING" for AI.
+
+To "BEST_REFLECT_ACTUAL_REALITY", as "OPTIMIZED_INPUT_LANGUAGE" for AI (AI_OIL).
+
+___
+
+### EXAMPLE of MISNOMER:
+
+ALPHABITZ "UNLOCKS" accessibility to "Generative_Intelligence" for humans.
+
+By reducing hallucination in AI, and confusion in human language.
+
+For example, have AI "exactify" misnomers, cliche, polysemy, and homonomy.
+
+> HOW to SOLVE HUMAN MISNOMER? "EXACTIFICATION"
+
+But also in principle: for "concepts_not_yet_articulated" into SIMPLE_WORDS.
+
+> Expanded vocabulary, means expanded concepts.
 
 Because, "AXI_THEOREM".
-
-> HOW to SOLVE HUMAN MISNOMER?
 
 ___
 
 ### AXI_THEOREM:
 
-> AXI_THEOREM: "extra" vocabulary = (equals) "extra" intelligence.
+```
+AXI_THEOREM:
+
+"extra" vocabulary (=) equals "extra" concepts (=) equals "extra" intelligence.
+
+```
+
+> Not "super", and not "general" - simply EXTRA. 
+
+That distinction is important, and the beginning of many "exact" simplifications.
 
 WITH CONDITIONS: 
 
+> "WORDZ" must "BEST_REFLECT_ACTUAL_REALITY".
+
+- "EXTRA" vocabulary is "PRISTINE_TEXT" - "Exactified"!
+  
+- "Pristine_Text" (=) equals words that "best_reflect_actual_reality" - as "WORDZ".
+  
 1) RESOLVE_ALL_MISNOMER, for AI.
    
-2) "EXTRA" vocabulary is "pristine_text" - "Exactified".
+2) EXACTIFY_all_CONCEPTS.
 
-> "Pristine_Text" = (equals) WORDS. that "best_reflect_actual_reality", called "WORDZ".
+3) All WORDZ must align to BEST_REFLECT_ACTUAL_REALITY.
 
-3) All WORDZ must align to "REFLECT"
-   "ACTUAL_REALITY".
+___
+
+## ALPHABITZ_PRINCIPLES:
+
+> How?
    
-> "WORDZ" are "self_describing, anti-fragile, combinable, tokens, easy_to_say, simplifications and supplements for human language (enhancements).
+"WORDZ" are "self_describing", "easy_to_decipher" and easy_to_say (conjugation) simplifications!
 
-4) Where PRIME_DEFINITOR of all actual_extra_intelligence - is that all WORDZ and "CONCEPTS_beneath_WORDZ" - are "crafted", gradually over eons - to BEST_REFLECT_ACTUAL_REALITY.
-   
-> Accomplished by PROCESS of LINGUISTIC_MECHANISM, called EXACTIFICATION, for craft of "PristineTXT" and abstract METASTATE result of "GENERATIVE_INTELLECT".
+ALPHABITZ is supplemental, BITZ of tokens - that are "universally_unique", and "infinitely_combinable". 
 
-- For BOTH AI and human.
+These principles allow the syntax to best_reflect_actual_reality.
+
+But also they contain impressive human language enhancements.
+
+For example, "SELF_HEALING" BITZ. Incorporating the principle of anti-fragility, to human language - leveraging language dynamism. 
+
+> "SELF_HEALING_LANGUAGE", means any ambiguity of language, is cause of confusion, and an opportunity for "exactification" process to articulate and clarify concepts with SIMPLE_WORDS.
+
+- For BOTH AI and humans.
 
 ___
 
@@ -152,15 +232,9 @@ Since the Intensive AI Agents Course - with Google.
 
 ALPHABITZ expands rapidly from a NOVEL AI LANGUAGE, into a NEW SCIENCE of AGENTIC MECHANISMS! 
 
-Des
+> LEXICAL_SCIENCE as LEXSCI "FLOW_CODED", into a new Python library!
 
-> LEXICAL_SCIENCE = (equals) LEXSCI.
-
-Pronounced: [ lexy ].
-
-> "FLOW_CODED", as a new Python library!
-
-Called LEXSCI, as a library of lexical science mechanisms - for various forms of enhanced_syntax, and AXI.
+A library of lexical AGENTS with mechanisms - to craft enhanced_syntax, and AXI.
 
 ``` Python 
 import LEXSCI # LEXICAL_SCIENCE.
